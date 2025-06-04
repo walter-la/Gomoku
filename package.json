@@ -1,0 +1,25 @@
+{
+  "name": "gomoku-phaser",
+  "version": "1.0.0",
+  "description": "五子棋 Phaser 3 + Vite 專案",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "gomoku",
+    "phaser",
+    "vite"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
